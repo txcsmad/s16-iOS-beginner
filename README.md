@@ -2,6 +2,10 @@
 
 Class materials and projects. Course overview (which will be highly responsive to the class' needs and will likely change) is available [here](https://docs.google.com/document/d/1yQ3bC7nxbvQzLUsWP8gnpekn14kmnNnLyTWCipy_V5I/edit?usp=sharing).
 
+## Slack
+
+[MAD has a Slack team](https://utcsmad.slack.com/signup)! It's a great place to get help from other MAD members interested in iOS and talk about news related to the platform.
+
 ## Instructors
 
 **Jesse Tipton**
