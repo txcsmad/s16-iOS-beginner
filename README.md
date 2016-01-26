@@ -1,4 +1,12 @@
-# iOS Beginner, Spring 2016
+# iOS Beginner Workshops, Spring 2016
+
+## Resources
+
+* [Swift](https://developer.apple.com/swift) - A collection of resources on the Swift programming language published by nonother than Apple itself.
+* [Swift Education](https://swifteducation.github.io)
+* [Little Bites of Cocoa](https://littlebitesofcocoa.com) - Tips and techniques for iOS and Mac development, weekday mornings at 9:42 AM.
+* [NSHipster](https://nshipster.com) - A journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
+* [GitHub's Swift style guide](https://github.com/github/swift-style-guide/blob/master/README.md) - A guide to the Swift style and conventions used by GitHub
 
 Class materials and projects. Course overview (which will be highly responsive to the class' needs and will likely change) is available [here](https://docs.google.com/document/d/1yQ3bC7nxbvQzLUsWP8gnpekn14kmnNnLyTWCipy_V5I/edit?usp=sharing).
 
@@ -6,18 +14,20 @@ Class materials and projects. Course overview (which will be highly responsive t
 
 [MAD has a Slack team](https://utcsmad.slack.com/signup)! It's a great place to get help from other MAD members interested in iOS and talk about news related to the platform.
 
-## Instructors
+## Instructor
 
 **Jesse Tipton**
-* Office Hours: TBA
+* @jesse on Slack
 * [Facebook](https://facebook.com/jessehtipton)
 * [Email me](mailto:jessetipton@utexas.edu)
 
-If my office hours don't work for you, just contact me to and we'll see if we can't work out a time that works for everyone.
+## I need help!
+
+Let us help you! Come see Jesse, Matt, Nick, and the whole gang at the iOS Meetup on Wednesdays from 6:30-8:00 in ~~GDC 6.302~~ (The first 3 iOS Meetups will be held in an alternate room, which will be announced on Facebook).
 
 ## What should I do if I miss a workshop?
 
-Not to worry! All the materials used in the workshop (Including the starting and ending state of whatever we worked on) are neatly organized in the folders in this repo. The READMEs in each folder will briefly describe what we did during the workshop so you can get a grasp of what was covered. If you have any questions, don't hesitate to contact Jesse with the links above or by going to their office hours.
+Not to worry! All the materials used in the workshop (Including the starting and ending state of whatever we worked on) are neatly organized in the folders in this repo. The READMEs in each folder will briefly describe what we did during the workshop so you can get a grasp of what was covered.
 
 ## License
 
