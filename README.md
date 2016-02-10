@@ -2,7 +2,7 @@
 
 ## Resources
 
-* [Swift](https://developer.apple.com/swift) - A collection of resources on the Swift programming language published by nonother than Apple itself.
+* [Swift](https://developer.apple.com/swift) - A collection of resources on the Swift programming language published by non other than Apple itself.
 * [Swift Evolution](https://github.com/apple/swift-evolution) - This repository tracks the ongoing evolution of Swift.
 * [Little Bites of Cocoa](https://littlebitesofcocoa.com) - Tips and techniques for iOS and Mac development, weekday mornings at 9:42 AM.
 * [NSHipster](https://nshipster.com) - A journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
