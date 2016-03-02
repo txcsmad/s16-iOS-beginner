@@ -1,4 +1,4 @@
-# Coffee Quiz!
+# Coffee Challenge!
 
 ## Objective
 
