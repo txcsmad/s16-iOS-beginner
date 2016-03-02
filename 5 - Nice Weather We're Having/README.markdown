@@ -1,4 +1,4 @@
-# Coffee Coffee!
+# Coffee Challenge!
 
 ## Objective
 
