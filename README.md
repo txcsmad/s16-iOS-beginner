@@ -13,10 +13,6 @@ Class materials and projects. Course overview (which will be highly responsive t
 
 [MAD has a Slack team](https://utcsmad.slack.com/signup)! It's a great place to get help from other MAD members and talk about news related to the platform. Also a good place to share your dank memes.
 
-## Playlist
-
-You can [submit a song](http://utcsmad.com/playlist) to be added to the playlist that gets played before workshops.
-
 ## Instructor
 
 **Jesse Tipton**
